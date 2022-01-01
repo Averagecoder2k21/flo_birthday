@@ -54,7 +54,7 @@ button{
     box-shadow: 1px 1px 1px 1px rgba(110, 75, 75, 0.712);
     font-style: italic;
     font-size: large;
-    font-weight: bolder;
+    font-weight: bold;
     border-radius: 10px;
     color:black;
 }
